@@ -1,0 +1,60 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Castro's Pool & General Contractors, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/backyard-build.jpg",
+      "placement": "Hero",
+      "source": "Pexels",
+      "photoId": 33404224,
+      "title": "Backyard Patio Construction in Texas Home",
+      "photographer": "Ryan  Stephens",
+      "page": "https://www.pexels.com/photo/backyard-patio-construction-in-texas-home-33404224/",
+      "originalFile": "https://images.pexels.com/photos/33404224/pexels-photo-33404224.jpeg",
+      "derivation": "Resized to 1600x1067 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/drained-pool.jpg",
+      "placement": "Renovation \"before\" illustration",
+      "source": "Pexels",
+      "photoId": 11757136,
+      "title": "Abandoned Empty Pool ",
+      "photographer": "Strange Happenings",
+      "page": "https://www.pexels.com/photo/abandoned-empty-pool-11757136/",
+      "originalFile": "https://images.pexels.com/photos/11757136/pexels-photo-11757136.jpeg",
+      "derivation": "Resized to 1400x933 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/finished-pool.jpg",
+      "placement": "Renovation \"after\" illustration",
+      "source": "Pexels",
+      "photoId": 8143667,
+      "title": "Large Poolside Shed in Summer",
+      "photographer": "Max Vakhtbovych",
+      "page": "https://www.pexels.com/photo/large-poolside-shed-in-summer-8143667/",
+      "originalFile": "https://images.pexels.com/photos/8143667/pexels-photo-8143667.jpeg",
+      "derivation": "Resized to 1400x934 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Oswald",
+      "files": [
+        "assets/fonts/oswald-normal-400_700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Rubik",
+      "files": [
+        "assets/fonts/rubik-normal-400_700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
